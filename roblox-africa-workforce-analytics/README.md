@@ -6,7 +6,7 @@
 
 ## Problem
 
-Roblox Africa Operations (fictional case study client) needed a workforce intelligence analysis integrating employee, department, finance, health, and education data to support organizational performance decisions.
+Roblox Africa Operations (case study client) needed a workforce intelligence analysis integrating employee, department, finance, health, and education data to support organizational performance decisions.
 
 ## Approach
 
@@ -20,7 +20,10 @@ Roblox Africa Operations (fictional case study client) needed a workforce intell
 
 ## Key Findings
 
-*(Add 2–4 sentence highlights here once you've reviewed the dashboard — e.g. which department has the highest average performance score, any notable cost or training gaps, insurance status distribution)*
+- **Balanced, evenly-distributed workforce** — 30,000 employees split almost evenly by gender (~50/50) and across 8 departments (each holding 12–13% of headcount), with employee status split roughly equally between Active, On Leave, and Inactive
+- **Performance is consistent across departments** — average performance scores cluster tightly between 3.58–3.61 across all departments and stay flat year-over-year (2021–2025), suggesting performance is not department-driven
+- **Finance and HR generate the most value** — Finance Department leads with GHS 20.2M in revenue generated (against GHS 12.9M cost), followed by HR at GHS 17.6M revenue; Data and Analytics generates the least revenue (GHS 5.1M) despite the highest average performance score
+- **Insurance status needs attention** — split almost evenly across Active, Pending, and Expired (~33% each), flagging a potential enrolment gap worth investigating
 
 ## Files
 
