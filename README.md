@@ -8,6 +8,7 @@ Data analyst case studies in SQL, Power BI, and Excel — spanning workforce ana
 
 | Project | Tools | Summary |
 | [Ghana Adventures — Tourism Analytics](./ghana-adventures-tourism-analytics) | Power BI, Excel | Cleaned & modelled 249 bookings; dashboard uncovering seasonal demand, product mix, and repeat-customer patterns for a fictional tour operator |
+| [Employee Workforce Intelligence Analytics](./roblox-africa-workforce-analytics) | SQL, Power BI, Excel | Built a relational SQL database integrating employee, department, finance, health, and education data; 4-page dashboard covering workforce composition, performance, compensation, and wellbeing |
 
 
 ## About Me
