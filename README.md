@@ -13,4 +13,4 @@ Data analyst case studies in SQL, Power BI, and Excel — spanning workforce ana
 
 ## About Me
 
-Development and L&D professional with 8+ years of experience across financial management, monitoring & evaluation, and training facilitation, now building data analytics skills through SQL, Power BI, and Excel to support data-driven decision-making.
+Development and L&D professional with 6? years of experience across financial management, monitoring & evaluation, and training facilitation, now building data analytics skills through SQL, Power BI, and Excel to support data-driven decision-making.
